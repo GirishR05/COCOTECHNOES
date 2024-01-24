@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Chart
+class ORGChart
 {
     public static void main(String[] args)
     {
